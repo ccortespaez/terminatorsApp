@@ -1,0 +1,7 @@
+C:\Users\Cristobal\source\repos\terminatorsApp\terminatorsApp\bin\Debug\terminatorsApp.exe.config
+C:\Users\Cristobal\source\repos\terminatorsApp\terminatorsApp\bin\Debug\terminatorsApp.exe
+C:\Users\Cristobal\source\repos\terminatorsApp\terminatorsApp\bin\Debug\terminatorsApp.pdb
+C:\Users\Cristobal\source\repos\terminatorsApp\terminatorsApp\obj\Debug\terminatorsApp.csprojAssemblyReference.cache
+C:\Users\Cristobal\source\repos\terminatorsApp\terminatorsApp\obj\Debug\terminatorsApp.csproj.CoreCompileInputs.cache
+C:\Users\Cristobal\source\repos\terminatorsApp\terminatorsApp\obj\Debug\terminatorsApp.exe
+C:\Users\Cristobal\source\repos\terminatorsApp\terminatorsApp\obj\Debug\terminatorsApp.pdb
